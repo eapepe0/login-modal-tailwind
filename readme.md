@@ -14,7 +14,7 @@ Pagina hecha con tailwindcss
 
 ## Deploy
 
-[Link a la pagina]()
+[Link a la pagina](https://incomparable-cocada-8c8a5a.netlify.app)
 [Link a la pagina marcada](https://64ea6a74a025aa76c5919211--elaborate-bavarois-e5cdf3.netlify.app/)
 
 ## Correr Tailwind
